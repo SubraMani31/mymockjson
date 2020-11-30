@@ -5,7 +5,7 @@
    { "pId": "3", "pName": "Ladder", "pPrice": 3500 }
 ],
 "Store": [
-     { "sName" : "Harvester's shop", "sLoc": "New jersey" },
+     { "sName": "Harvester's shop", "sLoc": "New jersey" },
 { "sName" : "New shop", "sLoc": "Texas"}
 ]
 }
