@@ -1,13 +1,13 @@
 {
-"Products": {
+"Products": [
   { "pId": "1", "pName": "Cutter", "pPrice": 2500 },
    { "pId": "2", "pName": "Slicer", "pPrice": 2800 },
    { "pId": "3", "pName": "Ladder", "pPrice": 3500 }
-},
-"Store": {
+],
+"Store": [
      { "sName" : "Harvester's shop", "sLoc": "New jersey" },
 { "sName" : "New shop", "sLoc": "Texas"}
-}
+]
 }
 
    
